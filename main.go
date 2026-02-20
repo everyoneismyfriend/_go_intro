@@ -1,4 +1,4 @@
-package _go_intro
+package main
 
 func Add(a, b int) int {
 	return a + b
